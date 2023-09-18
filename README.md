@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on my 3rd personal project written in Swift using UIKit (to be updated soon) 
 - 🌱 I’m currently learning for the role of Junior iOS developer - if you have heard of any open vacancies for an internship or junior position, let me know!
 - 📫 How to reach me: olgi.krolikowska@gmail.com
+_________________________________________________________________________________
+My [Codewars](https://www.codewars.com/users/olgikrolik) rank:
 
 ![CodeWars Badge](https://www.codewars.com/users/olgikrolik/badges/large)
 
