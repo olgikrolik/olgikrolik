@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 - 🔭 I’m currently working on my 3rd personal project written in Swift using UIKit - chat "Talk" (to be updated soon)
 - 🔭 I'm also working on creating my own app for the App Store with a more experienced iOS developer. More information will be available soon.
 - 🌱 I’m currently learning for the role of Junior iOS developer - if you have heard of any open vacancies for an internship or junior position, let me know!
