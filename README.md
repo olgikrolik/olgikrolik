@@ -1,6 +1,6 @@
 ### Hi 👋
-- 🔭 I’m currently working on my 3rd personal project written in Swift using UIKit - chat "Talk" (to be updated soon)
-- 🔭 I'm also working on creating my own app for the App Store with a more experienced iOS developer. More information will be available soon.
+- 📱 My app (workout shoes mileage tracker) is available on the App Store [SHOOZ app](https://apps.apple.com/us/app/shooz-shoes-tracker-buddy/id6476882229)
+- 🔭 I'm also working on creating my second app for the App Store with a more experienced iOS developer. More information will be available soon.
 - 🌱 I’m currently learning for the role of Junior iOS developer - if you have heard of any open vacancies for an internship or junior position, let me know!
 - 📫 How to reach me: olgi.krolikowska@gmail.com
 _________________________________________________________________________________
