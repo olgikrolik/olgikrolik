@@ -1,5 +1,5 @@
 ### Hi 👋
-- 📱 My apps available on the App Store: [SHOOZ app](https://apps.apple.com/us/app/shooz-shoes-tracker-buddy/id6476882229) [Mr. Calo app](https://apps.apple.com/us/app/calorie-tracking-mr-calo-ai/id6738500764) [Gently app](https://apps.apple.com/us/app/manifest-affirmations-gently/id6505078220)
+- 📱 My apps available on the App Store: [SHOOZ app](https://apps.apple.com/us/app/shooz-shoes-tracker-buddy/id6476882229), [Mr. Calo app](https://apps.apple.com/us/app/calorie-tracking-mr-calo-ai/id6738500764), [Gently app](https://apps.apple.com/us/app/manifest-affirmations-gently/id6505078220)
 - 🌱 I’m currently learning for the role of Junior iOS developer - if you have heard of any open vacancies for an internship or junior position, let me know!
 - 📫 How to reach me: olgi.krolikowska@gmail.com
 _________________________________________________________________________________
